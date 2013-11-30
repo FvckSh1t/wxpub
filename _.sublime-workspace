@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"be",
+				"beautify_js"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/login.js",
+			"settings":
+			{
+				"buffer_size": 3719,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"npm",
+			"npm install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/fritz/Dev/Node/wxpub/lib/msg.js",
+		"/home/fritz/Dev/Node/wxpub/lib/users.js",
+		"/home/fritz/Dev/Node/wxpub/config/wx.js",
+		"/home/fritz/Dev/Node/wxpub/test/users.js",
+		"/home/fritz/Dev/Node/wxpub/test/msg.js",
+		"/home/fritz/Dev/Node/wxpub/lib/index.js",
+		"/home/fritz/Dev/Node/wxpub/lib/get-msg.js",
+		"/home/fritz/Dev/Node/wxpub/test/list-msg.js",
+		"/home/fritz/Dev/Node/wxpub/lib/login.js",
+		"/home/fritz/Dev/Node/wxpub/test/login.js",
+		"/home/fritz/Dev/Node/wxpub/lib/login-form.js",
+		"/home/fritz/Dev/Node/wxpub/package.json",
+		"/home/fritz/Dev/Node/wxpub/data/login-form.json",
+		"/home/fritz/Dev/Node/wxpub/test/login-form.js",
+		"/home/fritz/Dev/Node/wxpub/lib/wx/login-form.js",
+		"/home/fritz/Dev/Node/wxpub/lib/wx/login.js",
+		"/home/fritz/Dev/Node/wxpub/config/index.js",
+		"/home/fritz/Dev/Node/wxpub/node_modules/request/tests/test-defaults.js",
+		"/home/fritz/Dev/Node/wx/data/wx/login-form.json",
+		"/home/fritz/Dev/Node/wyvoice/lib/wx.js",
+		"/home/fritz/Dev/Node/wx/test/wx/login.js",
+		"/home/fritz/Dev/Node/wx/lib/wx/login-form.js",
+		"/home/fritz/Dev/Node/wx/lib/wx/index.js",
+		"/home/fritz/Dev/Node/wx/lib/wx/login.js",
+		"/home/fritz/Dev/Node/wx/config/wx.js",
+		"/home/fritz/Dev/Node/wx/test/wx/login-form.js",
+		"/home/fritz/Dev/Node/wx/test/wx/use-request.js",
+		"/home/fritz/Dev/Node/wx/lib/wx.js",
+		"/home/fritz/Dev/Node/wx/config/index.js",
+		"/home/fritz/Dev/Node/wx/test/use-request.js",
+		"/home/fritz/Dev/Node/wx/config.js",
+		"/home/fritz/Dev/Node/wx/test/assign.js",
+		"/home/fritz/Dev/Node/wx/test/set-login-form.js",
+		"/home/fritz/Dev/Node/wyvoice/test/wx-login.js",
+		"/home/fritz/Dev/Node/wx/data/wx/account.json",
+		"/home/fritz/Dev/Node/wyvoice/lib/client.js",
+		"/home/fritz/Dev/Node/wyvoice/test/backup.js",
+		"/home/fritz/Dev/Node/wyvoice/test/wx-steal.js",
+		"/home/fritz/Dev/Node/wyvoice/data/mongo.json",
+		"/home/fritz/Dev/Node/wyvoice/data/wx-account.json",
+		"/home/fritz/Dev/Node/wyvoice/config/index.js",
+		"/home/fritz/Dev/Node/wyvoice/app.js",
+		"/home/fritz/Dev/Node/wyvoice/config/ext/wyvoice.js",
+		"/home/fritz/Dev/Node/wyvoice/config/ext/wx.js",
+		"/home/fritz/Dev/Node/wyvoice/config/ext/mongo.js",
+		"/home/fritz/Dev/Node/wyvoice/lib/beautify.js",
+		"/home/fritz/Dev/Node/wyvoice/test/wx-account.js",
+		"/home/fritz/Dev/Node/wyvoice/package.json",
+		"/home/fritz/Dev/Node/wyvoice/.gitignore",
+		"/home/fritz/Dev/Node/wyvoice/lib/nicer.js",
+		"/home/fritz/Dev/Node/wyvoice/data/wx-login.json",
+		"/home/fritz/Dev/Node/wyvoice/config/ext/bae.js",
+		"/home/fritz/Dev/Node/wyvoice/data/wx-imgcode.jpg",
+		"/home/fritz/Dev/Node/wyvoice/README.md",
+		"/home/fritz/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/fritz/Dev/Node/wyvoice/test/wx-backup.js",
+		"/home/fritz/Dev/Node/wyvoice/test/backup.js~",
+		"/home/fritz/Dev/Node/wyvoice/test/account.js~",
+		"/home/fritz/Dev/Node/wyvoice/test/login.js~",
+		"/home/fritz/Dev/Html/jmsis-public/_.sublime-project",
+		"/home/fritz/Dev/Html/jmsis-public/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"loginForm",
+			"return",
+			"loginError",
+			"wxConfig",
+			"form",
+			"loginForm",
+			"wxConfig",
+			"imgcodeFile",
+			"wxConfig.",
+			"cookieFile",
+			"token",
+			"request",
+			"md5",
+			"wxConfig",
+			"wx.",
+			"md5",
+			"readJson",
+			"login",
+			"data",
+			"this",
+			"login",
+			"Account file",
+			"Account",
+			"md5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"loginInfo",
+			"loginErr",
+			"form",
+			"sessionFile",
+			"session",
+			"wx"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/login.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1524,
+								1524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"project": "_.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/fritz/Dev/Html/jmsis-public.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

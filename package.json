@@ -1,0 +1,6 @@
+{
+	"name": "wxpub",
+	"version": "0.0.1",
+	"description": "Implements weixin-api in Node.js, using page-fetching",
+	"main": "./lib/"
+}
